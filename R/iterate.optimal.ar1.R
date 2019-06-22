@@ -7,7 +7,7 @@
 #' computing iterated optimal weights
 #' @param ck number of cluster with each unique cluster size
 #' @param nk unique cluster sizes
-#' @param mu.split estimated $\mu$ from different splits 
+#' @param mu.split estimated \eqn{\mu} from different splits 
 #' @param var.comp.split estimated variance components (rho and sigma^2)
 #' from different splits
 #' @param tol the tolerance

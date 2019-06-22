@@ -11,7 +11,7 @@ iterate.optimal.ar1(ck, nk, mu.split, var.comp.split, tol)
 
 \item{nk}{unique cluster sizes}
 
-\item{mu.split}{estimated $\mu$ from different splits}
+\item{mu.split}{estimated \eqn{\mu} from different splits}
 
 \item{var.comp.split}{estimated variance components (rho and sigma^2)
 from different splits}
