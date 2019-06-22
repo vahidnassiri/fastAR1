@@ -9,4 +9,4 @@ Description: Estimating parameters of a model with correlated error
 	   with first order autoregressive (AR1) structure for their
 	   covariance matrix. 
 License: GPL (>=2)
-RoxygenNote: 6.1.0
+RoxygenNote: 6.1.1
